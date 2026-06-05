@@ -250,7 +250,7 @@ export default function About() {
               >
                 {/* Photo Image */}
                 <img
-                  src="/assets/professional-photo.PNG"
+                  src="/assets/professional-photo.png"
                   alt="Yasith Udantha - AI Engineer"
                   className="w-full h-full object-cover"
                 />
