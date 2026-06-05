@@ -81,11 +81,11 @@ export default function Projects() {
       result: 'The application successfully delivers an accessible, all-in-one ecosystem for investors. It significantly reduces the time spent on manual research, empowers users with data-backed market predictions and sentiment analysis, and provides a secure, user-friendly environment for managing financial portfolios.',
       techStack: ['Python', 'Flask','flask-bcrypt', 'HTML/CSS/JavaScript', 'NLP', 'LSTM', 'ARIMA', 'Random Forest', 'Monte Carlo', 'SQL','pandas', 'numpy', 'scikit-learn', 'yfinance', 'FinBERT', 'TextBlob', 'joblib', 'matplotlib', 'google-generativeai Gemini API', ' statsmodels'],
       images: [
-        'public/assets/projects/images/smartvest-1.png',
-        'public/assets/projects/images/smartvest-2.png',
-        'public/assets/projects/images/smartvest-3.png',
+        '/assets/projects/images/smartvest-1.png',
+        '/assets/projects/images/smartvest-2.png',
+        '/assets/projects/images/smartvest-3.png',
       ],
-      videoUrl: 'public/assets/projects/videos/smartvest-demo.mp4',
+      videoUrl: '/assets/projects/videos/smartvest-demo.mp4',
       github: 'https://github.com/yasithudantha/SmartVest',
       highlights: [
         'Real-time tracking and AI-powered predictive analytics for stocks, crypto, and commodities',
@@ -106,11 +106,11 @@ export default function Projects() {
       result: 'Delivered a cohesive and visually appealing application that streamlines clinical workflows and diet planning processes. The modern user interface enhances user engagement and accessibility, while the robust backend ensures data integrity and secure role-based access for all stakeholders.',
       techStack: ['Java (Spring Boot 3)','React.js (Vite)','MySQL','Tailwind CSS','JWT (JSON Web Tokens)','Framer Motion','Flyway'],
       images: [
-        'public/assets/projects/images/healthapp1.png',
-        'public/assets/projects/images/healthapp2.png',
-        'public/assets/projects/images/healthapp3.png',
+        '/assets/projects/images/healthapp1.png',
+        '/assets/projects/images/healthapp2.png',
+        '/assets/projects/images/healthapp3.png',
       ],
-      videoUrl: 'public/assets/projects/videos/healthapp-demo.mp4',
+      videoUrl: '/assets/projects/videos/healthapp-demo.mp4',
       github: 'https://github.com/yasithudantha/NutriNexus',
       highlights: [
         'Role-based access control with dedicated portals for Administrators, Doctors, Nutritionists, and Patients.',
@@ -130,11 +130,11 @@ export default function Projects() {
       result: 'The platform significantly reduces administrative overhead and minimizes appointment no-shows through automated push notifications. It enhances the patient experience by providing 24/7 mobile access to personal health records and a seamless billing process, ultimately improving operational efficiency and patient satisfaction.',
       techStack: ['MongoDB', 'Express.js', 'React (Vite)', 'React Native (Expo)', 'Node.js', 'TypeScript', 'Tailwind CSS', 'Stripe API'],
       images: [
-        'public/assets/projects/images/clinickapp1.png',
-        'public/assets/projects/images/clinickapp2.png',
-        'public/assets/projects/images/clinickapp3.png',
+        '/assets/projects/images/clinickapp1.png',
+        '/assets/projects/images/clinickapp2.png',
+        '/assets/projects/images/clinickapp3.png',
       ],
-      videoUrl: 'public/assets/projects/videos/clinickapp-demo.mp4',
+      videoUrl: '/assets/projects/videos/clinickapp-demo.mp4',
       github: 'https://github.com/yasithudantha/ClinicAppProject',
       highlights: [
         'Cross-platform patient mobile application (iOS/Android) built with Expo Router',
